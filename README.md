@@ -20,11 +20,11 @@
 <hr>
 <h1>How to install ?</h1>
 <p>Tutorial to install LOADED VERSION [allwbos0.1_loaded.iso]</p>
-https://www.youtube.com/NhO3rRVyhrU
+(https://www.youtube.com/watch?v=YA7YDgKZs78)
 <br>
 <br>
 <p>Tutorial to install BASE VERSION [allwbos_base0.1.iso]</p>
-https://youtu.be/NhO3rRVyhrU
+(https://www.youtube.com/watch?v=NhO3rRVyhrU)
 <hr>
 <p>
 <img src="./Snapshots/neofetch.PNG"/>
