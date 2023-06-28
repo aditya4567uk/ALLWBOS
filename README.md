@@ -26,6 +26,24 @@
 <p>Tutorial to install BASE VERSION [allwbos_base0.1.iso]</p>
 (https://www.youtube.com/watch?v=NhO3rRVyhrU)
 <hr>
+<h2>Apps and packages you get out of the box , no installation and configuration needed (applies only for loaded version)</h2>
+<ul>
+  <li>VMD</li>
+  <li>Hadoop</li>
+  <li>Python 3 & 2</li>
+  <li>Java Open JDK</li>
+  <li>G++ (C/C++)</li>
+  <li>Atom</li>
+  <li>VS Code (already configured and set up for several language support)</li>
+  <li>Jupyter Notebook</li>
+</ul>
+<hr>
+<h2>Known issues & bugs (as of now)</h2>
+<ul>
+  <li>In base version fresh install takes 2-3 bootup attempt to enter in Desktop of OS.</li>
+  <li>Sometimes application window freezes for a while.</li>
+</ul>
+<hr>
 <p>
 <img src="./Snapshots/neofetch.PNG"/>
 <img src="./Snapshots/shut.PNG">
