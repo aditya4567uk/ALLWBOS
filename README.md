@@ -10,7 +10,8 @@
 
 <H1>DOWNLOADS:</H1>
 <ul>
-<li><a href="https://drive.google.com/file/d/1dbk71AdUDY59BdkdJVbGXUO-D-06qfdp/view?usp=drive_link">allwbos0.1_loaded.iso</a> (usrname = printadi ; password = printadi)</li>
+<li><a href="https://drive.google.com/file/d/1tBQE1f_Io2sM7t31JiKNVMcHugthu-zP/view?usp=drivesdk">ALLWBOS_Version_0.3</a> (usrname = printadi ; password = printadi) </li>
+<li><a href="https://drive.google.com/file/d/1dbk71AdUDY59BdkdJVbGXUO-D-06qfdp/view?usp=drive_link">allwbos0.1_loaded.iso</a> (usrname = printadi ; password = printadi) [NOT RCOMMENDED , KINDLY USE ALLWBOS V0.3]</li>
 <li><a href="https://drive.google.com/file/d/1s2Kuk9KQPJgXiRS1lKJpvdDQZgT5dljk/view?usp=drive_link">allwbos_base0.1.iso</a></li>
 <li><a href="https://drive.google.com/file/d/1MjHciw0x9TAL11zBAFUvT8OWqenLSbEL/view?usp=drive_link">VBox_Guest_Additions_6.1</a> (optional)</li>
 </ul>
@@ -19,8 +20,8 @@
 <p>ALLWBOS is using 215mb of memory & Ubuntu 20.04LTS using 772mb of memory</p>
 <hr>
 <h1>How to install ?</h1>
-<p>Tutorial to install LOADED VERSION [allwbos0.1_loaded.iso]</p>
-(https://www.youtube.com/watch?v=YA7YDgKZs78)
+<p>Tutorial to install LOADED VERSION [ALLWBOS_Version_0.3_loaded.iso]</p>
+(https://youtu.be/Q5R7KQIZmFs)
 <br>
 <br>
 <p>Tutorial to install BASE VERSION [allwbos_base0.1.iso]</p>
@@ -29,25 +30,30 @@
 <h2>Apps and packages you get out of the box , no installation and configuration needed (applies only for loaded version)</h2>
 <ul>
   <li>VMD</li>
-  <li>Hadoop</li>
+  <li>Hadoop 3.3</li>
   <li>Python 3 & 2</li>
   <li>Java Open JDK</li>
   <li>G++ (C/C++)</li>
   <li>Atom</li>
   <li>VS Code (already configured and set up for several language support)</li>
   <li>Jupyter Notebook</li>
+  <li>Pig 0.17</li>
+  <li>Kafka</li>
+  <li>Apache Spark</li>
+  <li>Hive</li>
+  <li>SQOOP 1.4.7</li>
 </ul>
 <hr>
 <h2>Known issues & bugs (as of now)</h2>
 <ul>
-  <li>In base version fresh install takes 2-3 bootup attempt to enter in Desktop of OS.</li>
-  <li>Sometimes application window freezes for a while.</li>
+  <li>(RESOLVED)In base version fresh install takes 2-3 bootup attempt to enter in Desktop of OS.</li>
+  <li>(RESOLVED)Sometimes application window freezes for a while.</li>
 </ul>
 <hr>
 <h3>Future enhancement and plans</h3>
 <ul>
   <li>Additions of tools for backend developemnt (MongoDB ,SQL Etc)</li>
-  <li>Additions of tools for Data Science and AI (Tableau, Hive, Matlab etc)</li>
+  <li>Additions of tools for Data Science and AI (Tableau, Matlab etc)</li>
   <li>Cyber Security tools (nmap ,brup suite ,Metasploit etc)</li>
 </ul>
 <hr>
